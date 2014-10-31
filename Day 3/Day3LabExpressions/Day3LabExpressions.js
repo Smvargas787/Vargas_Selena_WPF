@@ -8,6 +8,11 @@
 //Slice of Pie Part 1
 // Calculate how many slices each person will get at the party
 
-var slices = 2
-var people = 20
-var ordered = 5
+var slices = 2;
+var people = 20;
+var ordered = 5;
+
+//slices * people /ordered
+
+var slices = slices * people /ordered;
+
