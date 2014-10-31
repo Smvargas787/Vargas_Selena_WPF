@@ -49,7 +49,13 @@ var averageAmount = (totalamount / 5);
 console.log("You have spent a total of $"+totalamount+" on groceries over 5 weeks. That is an average of $ "+averageAmount+" per week");
 
 //Discounts
+//Given
 
+var originalPrice = 100;
+console.log("The original price of the item is $"+originalPrice+".");
 
+var discountPrice = 50;
+var Discount = discountPrice / 100;
+console.log("The discount for the Ipod is "+discountPrice+"%.");
 
-
+var
