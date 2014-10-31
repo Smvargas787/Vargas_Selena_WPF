@@ -4,3 +4,7 @@
  *Instructional Assignment: Expressions
  * Section 00
  */
+
+//Slice of Pie Part 1
+// Calculate how many slices each person will get at the party
+
