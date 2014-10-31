@@ -35,12 +35,13 @@ console.log("Sparky got "+together+ ""+" slices of pizza.");
 
 //Average Shopping Bill
 
-Var week1 = 100;
+var week1 = 100;
 var week2 = 300;
 var week3 = 250;
 var week4 = 120;
 var week5 = 98;
 
-
-
+//Total amount spent
+var totalamount = (week1+week2+week3+week4+week5);
+console.log("You have spent a total of $"+totalamount+" on groceries over 5 weeks.");
 
