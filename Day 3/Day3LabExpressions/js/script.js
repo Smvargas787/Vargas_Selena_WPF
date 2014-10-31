@@ -7,7 +7,7 @@
 
 
 
-//Slice of Pie Part 1
+//Slice of Pie Part 1 & 2
 //Calculate how many leftover slices there will be for sparky
 
 //Given
@@ -31,6 +31,16 @@ console.log("Each person ate "+slicesPerPerson+" "+"slices of pizza at the party
 ////slices * people /ordered
 
 var together = slices * ordered % people;
-console.log("Sparky got "+together+ "slices of pizza.");
+console.log("Sparky got "+together+ ""+" slices of pizza.");
+
+//Average Shopping Bill
+
+Var week1 = 100;
+var week2 = 300;
+var week3 = 250;
+var week4 = 120;
+var week5 = 98;
+
+
 
 
