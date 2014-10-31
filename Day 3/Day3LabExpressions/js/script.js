@@ -8,13 +8,17 @@
 //Slice of Pie Part 1
 // Calculate how many slices each person will get at the party
 
+//Given:
 var slices = 2;
 var people = 20;
 var ordered = 5;
 
+//Math Equation
 //slices * people /ordered
 
-//Math Equation
+//Result Variables
 var pizzaSolution = (slices+people)/ordered
 console.log(pizzaSolution);
+
+//Result Format 
 
