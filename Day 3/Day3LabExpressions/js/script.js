@@ -31,3 +31,15 @@ console.log(together);
 var slices = 2;
 var people = 20;
 var ordered = 5;
+
+//Math Equation
+////slices * people /ordered
+
+//Result Variables
+var pizzaSolution = (slices+people)/ordered;
+console.log(pizzaSolution);
+
+
+var remainder = 4.4%5;
+console.log(remainder);
+
