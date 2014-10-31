@@ -20,13 +20,14 @@ var ordered = 5;
 //totalSlices = slices * ordered
 
 var totalSlices = slices * ordered;
-console.log("total slices of pizza "+totalSlices);
+console.log("Total slices of pizza "+totalSlices);
 
 //slicesPerPerson = slices * ordered / people
 
 //Result Variables
 var slicesPerPerson = slices * ordered / people;
-console.log("slices per person "+slicesPerPerson);
+console.log("Each person ate "+slicesPerPerson+" "+"slices of pizza at the party.");
+
 ////slices * people /ordered
 
 var together = slices * ordered % people;
