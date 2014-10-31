@@ -10,14 +10,14 @@
 
 //Given
 var slices = 2;
-var people = 20;
+var people = 6;
 var ordered = 5;
 
 //Math Equation
 //slices * people /ordered
 
 //Result Variables
-var pizzaSolution = (slices+people)/ordered;
+var pizzaSolution = (slices*people)/ordered;
 console.log(pizzaSolution);
 
 //Result Format
@@ -29,17 +29,17 @@ console.log(together);
 
 //Given
 var slices = 2;
-var people = 20;
+var people = 6;
 var ordered = 5;
 
 //Math Equation
 ////slices * people /ordered
 
 //Result Variables
-var pizzaSolution = (slices+people)/ordered;
+var pizzaSolution = (slices*people)/ordered;
 console.log(pizzaSolution);
 
 
-var remainder = 4.4%5;
+var remainder = 2.4%2;
 console.log(remainder);
 
