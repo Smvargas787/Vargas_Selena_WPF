@@ -43,5 +43,9 @@ var week5 = 98;
 
 //Total amount spent
 var totalamount = (week1+week2+week3+week4+week5);
-console.log("You have spent a total of $"+totalamount+" on groceries over 5 weeks.");
+console.log("You have spent a total of $"+totalamount+" on groceries over 5 weeks");
+
+var averageamount = (totalamount / 5);
+console.log(averageamount);
+
 
