@@ -61,13 +61,14 @@ console.log("The discount for the item is "+discountPrice+"%.");
 var item = "Ipod";
 console.log("The item is an "+item+".");
 
-var salesTax = 6.1;
+var salesTax = 1.2;
 var tax = (salesTax * discountPrice);
 console.log("The sales tax is "+salesTax+"%.");
 
 var withoutTax = (originalPrice - discountPrice);
 console.log("The Ipod without tax involved is $"+withoutTax+".");
 
-var itemtax = ()
+var itemtax = (discountPrice * salesTax);
+console.log("The Ipod with tax involved is $"+itemtax+".");
 
 
