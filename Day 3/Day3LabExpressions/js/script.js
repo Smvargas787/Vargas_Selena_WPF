@@ -33,13 +33,13 @@ var people = 6;
 var ordered = 5;
 
 //Math Equation
-////slices * people /ordered
+//slicesPerPerson = slices * ordered / people
 
 //Result Variables
-var pizzaSolution = (slices*people)/ordered;
-console.log(pizzaSolution);
+var slicesPerPerson = slices * ordered % people
+console.log(slicesPerPerson)
+////slices * people /ordered
 
+var together = "Sparky"
 
-var remainder = 2.4%2;
-console.log(remainder);
 
