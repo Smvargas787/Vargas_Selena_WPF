@@ -17,8 +17,9 @@ var ordered = 5;
 //slices * people /ordered
 
 //Result Variables
-var pizzaSolution = (slices+people)/ordered
+var pizzaSolution = (slices+people)/ordered;
 console.log(pizzaSolution);
 
-//Result Format 
-
+//Result Format
+var together = "Each person ate "+pizzaSolution+" slices of pizza at the party.";
+console.log(together);

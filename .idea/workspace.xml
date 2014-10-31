@@ -29,11 +29,9 @@
       <file leaf-file-name="FirstFile.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 3/FirstFile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.2244898" vertical-offset="0" max-vertical-offset="240">
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
               <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding>
-                <marker date="1414778089000" expanded="true" signature="38:169" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -41,7 +39,7 @@
       <file leaf-file-name="Script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 3/JS/Script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2100" max-vertical-offset="2895">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2591" max-vertical-offset="2895">
               <caret line="153" column="19" selection-start-line="153" selection-start-column="19" selection-end-line="153" selection-end-column="19" />
               <folding />
             </state>
@@ -61,8 +59,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 3/Day3LabExpressions/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65460527" vertical-offset="131" max-vertical-offset="450">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.75328946" vertical-offset="131" max-vertical-offset="450">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -330,11 +328,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Day 3/FirstFile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2244898" vertical-offset="0" max-vertical-offset="240">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <marker date="1414778089000" expanded="true" signature="38:169" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -348,7 +344,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/JS/Script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2100" max-vertical-offset="2925">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2591" max-vertical-offset="2895">
           <caret line="153" column="19" selection-start-line="153" selection-start-column="19" selection-end-line="153" selection-end-column="19" />
           <folding />
         </state>
@@ -356,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/Day3LabExpressions/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65460527" vertical-offset="131" max-vertical-offset="450">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.75328946" vertical-offset="131" max-vertical-offset="450">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding />
         </state>
       </provider>
