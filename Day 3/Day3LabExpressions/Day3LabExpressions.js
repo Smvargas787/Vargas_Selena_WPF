@@ -14,5 +14,7 @@ var ordered = 5;
 
 //slices * people /ordered
 
-var slices = slices * people /ordered;
+//Math Equation
+var pizzaSolution = (slices+people)/ordered
+console.log(pizzaSolution);
 
