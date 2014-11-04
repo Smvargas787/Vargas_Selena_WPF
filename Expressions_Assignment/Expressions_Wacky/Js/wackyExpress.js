@@ -28,4 +28,17 @@ console.log("I know, I know, I'm the next "+hilarous+".");
 
 
 //Joke 2
-var joke2 =
+var joke2 = prompt("Round 2!\nKnock knock!\n(2): Who's There?");
+console.log("Round 2!\nKnock knock!\n"+joke2+":Who's There?");
+
+var actualJoke2 = prompt("Aren't I?\n(1): Aren't I who?");
+console.log("Aren't I?\n("+actualJoke2+"):Aren't I who?");
+
+
+var jokeAnswer2 = prompt("Aren't I just amazing at telling jokes?!.\n(2):No");
+console.log("You could of just played along.\n("+jokeAnswer2+"):No.");
+
+var hilarous2 = "hurt";
+console.log("Well that "+hilarous2+" a little bit.");
+
+//
