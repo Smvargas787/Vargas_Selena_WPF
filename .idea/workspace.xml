@@ -41,8 +41,8 @@
       <file leaf-file-name="Personal.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Personal/Js/Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29166666" vertical-offset="0" max-vertical-offset="720">
-              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.5208333" vertical-offset="0" max-vertical-offset="720">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -51,7 +51,7 @@
       <file leaf-file-name="day4Arrays.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 4/Js/day4Arrays.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1065">
+            <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1065">
               <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding />
             </state>
@@ -61,7 +61,7 @@
       <file leaf-file-name="day4Casting.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 4/Js/day4Casting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1050">
+            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1050">
               <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
               <folding />
             </state>
@@ -71,8 +71,8 @@
       <file leaf-file-name="PersonalExpress.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Personal/PersonalExpress.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="240">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -327,7 +327,7 @@
     <property name="JavaScriptLanguageLevel" value="JSX" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="Node.js.day4Casting.js">
+  <component name="RunManager" selected="JavaScript Debug.PersonalExpress.html">
     <configuration default="false" name="Day3LabExpressions.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vargas_Selena_WPF/Day 3/Day3LabExpressions/Day3LabExpressions.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -336,6 +336,11 @@
     <configuration default="false" name="day4Casting.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="day4Casting.js" working-dir="$PROJECT_DIR$/Day 4/Js">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PersonalExpress.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vargas_Selena_WPF/Expressions_Assignment/Expressions_Personal/PersonalExpress.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -375,14 +380,16 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Day3LabExpressions.html" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.day4Casting.js" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.PersonalExpress.html" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.day4Casting.js" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Day3LabExpressions.html" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.PersonalExpress.html" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.day4Casting.js" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Day3LabExpressions.html" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +407,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="817" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="817" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -564,18 +571,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Personal/PersonalExpress.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="240">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 4/Js/day4Casting.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1050">
           <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Personal/PersonalExpress.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -600,8 +607,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Personal/Js/Personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29166666" vertical-offset="0" max-vertical-offset="720">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.5208333" vertical-offset="0" max-vertical-offset="720">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding />
         </state>
       </provider>

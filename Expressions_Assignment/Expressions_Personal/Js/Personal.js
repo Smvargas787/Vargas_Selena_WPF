@@ -5,15 +5,25 @@ WPF 1411
 11-3-14
  */
 
-alert("Footlocker has a membership discount that allows you to get $10 off of every purchase" +
-"\nAfter buying x amount of shoes how much does your discount total up to?");
+alert("You're going shopping! You purchased 5 pairs of shoes.");
 
-var numShoes = prompt("How many shoes do you plan on buying?");
- console.log("You bought "+numShoes+" pairs of shoes.");
+ var fiveShoes = [];
+ fiveShoes[fiveShoes.length] = prompt("Pair 1 cost:");
+ console.log("The first pair cost $" + fiveShoes[0] + ".00.");
 
+ fiveShoes[fiveShoes.length] = prompt("Pair 2 cost:");
+ console.log("The second pair cost $"+fiveShoes[1] +".00.");
 
- var shoeCost = prompt("How much did each shoe cost?");
- console.log("Each pair purchased was $"+shoeCost+".");
+ fiveShoes[fiveShoes.length] = prompt("Pair 3 cost:");
+ console.log("The third pair cost $"+fiveShoes[2]+".00.");
+
+ fiveShoes[fiveShoes.length] = prompt("Pair 4 cost:");
+ console.log("The fourth pair cost $"+fiveShoes[3]+".00.");
+
+ fiveShoes[fiveShoes.length] = prompt("Pair 5 cost:");
+ console.log("The fifth pair cost $"+fiveShoes[4]+".00.");
+
+ 
 
 
 
