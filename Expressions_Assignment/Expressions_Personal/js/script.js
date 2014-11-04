@@ -26,5 +26,13 @@ console.log("The fifth pair cost $"+fiveShoes[4]+".00.");
 //Total cost of shoes
 
 var shoesTotal = (parseInt(fiveShoes[0]) + parseInt(fiveShoes[1]) + parseInt(fiveShoes[2]) + parseInt(fiveShoes[3]) + parseInt(fiveShoes[4]) );
-console.log(shoesTotal);
+console.log("Your current total is now $"+shoesTotal+".00.");
+
+var saleDiscount = prompt("Congratulations! You were able to receive $5.00 off of your previous total. Please enter your previous total.");
+
+shoesTotal-=5;
+console.log("Your new total with your discount is now "+shoesTotal+".00.");
+
+shoesTotal*=.9
+
 
