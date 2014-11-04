@@ -37,12 +37,23 @@ shoesTotal--;
 shoesTotal--;
 console.log("Your new total with your discount is now "+shoesTotal+".00.");
 
-var moreDiscounts = prompt("It must be your lucky day! You've just been awarded another 10% off of your original purchase! Press okay to fall in love with your new price!");
+alert("It must be your lucky day! You've just been awarded another 10% off of your original purchase! Click ok to fall in love with your new price!");
+
 
 shoesTotal*=.9;
-console.log("10% off on top of your previous total now leaves you with a purchase price of "+shoesTotal+"!");
+alert("10% off on top of your previous total now leaves you with a purchase price of "+shoesTotal+"!");
+console.log("10% off on top of your previous total now leaves you with a purchase price of "+shoesTotal+".00.");
 
-//Help Center Number
+//Help Center Address
+
+var Address1 = 3300;
+var Address2 = " Unviersity Blvd, ";
+var city = "Winter Park, Fl, ";
+var areaCode = 32792;
+
+var helpCenter = String(Address1)+String(Address2)+String(city)+String(areaCode);
+alert("Please refer to the help center if you wonder why you're broke. \n"+helpCenter+".");
+console.log("Please refer to the help center if you wonder why you're broke. \n"+helpCenter+".");
 
 
 
