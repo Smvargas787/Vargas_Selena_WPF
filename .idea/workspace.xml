@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28123f75-4a56-45bc-b827-4502a73a4295" name="Default" comment="" />
+    <list default="true" id="28123f75-4a56-45bc-b827-4502a73a4295" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 4/Js/day4Prompts.js" afterPath="$PROJECT_DIR$/Day 4/Js/day4Prompts.js" />
+    </list>
     <ignored path="Vargas_Selena_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,8 +91,8 @@
       <file leaf-file-name="day4Prompts.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 4/Js/day4Prompts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35416666" vertical-offset="0" max-vertical-offset="720">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.8958333" vertical-offset="0" max-vertical-offset="735">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -532,8 +534,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 4/Js/day4Prompts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35416666" vertical-offset="0" max-vertical-offset="720">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.8958333" vertical-offset="0" max-vertical-offset="735">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
