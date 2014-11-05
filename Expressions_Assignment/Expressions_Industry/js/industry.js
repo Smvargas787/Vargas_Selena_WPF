@@ -54,16 +54,14 @@ alert("Now that we've placed the logo perfectly on the header of the website, Bo
  fourSprinklers[fourSprinklers.length] = prompt("Set 4 cost:");
  console.log("The fourth set cost $"+fourSprinklers[3]+".00.");
 
-
- //Total Cost of the Set of Sprinklers
-
+ 
  var sprinklersTotal = (parseInt(fourSprinklers[0]) + parseInt(fourSprinklers[1]) + parseInt(fourSprinklers[2]) + parseInt(fourSprinklers[3])  );
  console.log("Thank you for shopping with Water Works! Your total for your sprinklers is $"+sprinklersTotal+".00.");
 alert("Thank you for shopping with Water Works! Your total for your sprinklers is $"+sprinklersTotal+".00.");
 
  alert("Bob wants to thank you for your interest into his uprising company!");
 
-
+alert("Please come back and work with Water Works again! Our water really does work. (:");
 
 
 
