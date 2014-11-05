@@ -61,7 +61,9 @@ alert("Now that we've placed the logo perfectly on the header of the website, Bo
  console.log("Thank you for shopping with Water Works! Your total for your sprinklers is $"+sprinklersTotal+".00.");
 alert("Thank you for shopping with Water Works! Your total for your sprinklers is $"+sprinklersTotal+".00.");
 
- 
+ alert("Bob wants to thank you for your interest into his uprising company!");
+
+
 
 
 
