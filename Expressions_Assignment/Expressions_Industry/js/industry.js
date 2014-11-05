@@ -35,14 +35,30 @@ alert("Now that we've placed the logo perfectly on the header of the website, Bo
  console.log(bobsLocations);
 
  alert("Fantastic! Bob is really loving how the website is coming out so far! For his final request, " +
- "he wants his visitors to be able to order a set of sprinklers online. Each sprinkler cost $1 but for each sprinkler bought there's an additional $5 charge for installation.");
+ "he wants his visitors to be able to order a set of sprinklers online.");
 
- var purchases = prompt("\nPlease enter the number of sprinklers you wish to purchase if you were a customer.");
- console.log(purchases);
+ //Array Purchases
 
- var sprinklersCost = purchases+5;
-console.log("Thank you for shopping with Wonder Works! Your total is "+sprinklersCost+"");
+ alert("Lets say you are buying 4 sets of sprinklers.");
 
+ var fourSprinklers = [];
+ fourSprinklers[fourSprinklers.length] = prompt("Set 1 cost:");
+ console.log("The first pair cost $" + fourSprinklers[0] + ".00.");
+
+ fourSprinklers[fourSprinklers.length] = prompt("Set 2 cost:");
+ console.log("The second pair cost $"+fourSprinklers[1] +".00.");
+
+ fourSprinklers[fourSprinklers.length] = prompt("Set 3 cost:");
+ console.log("The third pair cost $"+fourSprinklers[2]+".00.");
+
+ fourSprinklers[fourSprinklers.length] = prompt("Set 4 cost:");
+ console.log("The fourth pair cost $"+fourSprinklers[3]+".00.");
+
+
+ //Total Cost of the Set of Sprinklers
+
+ var sprinklersTotal = (parseInt(fourSprinklers[0]) + parseInt(fourSprinklers[1]) + parseInt(fourSprinklers[2]) + parseInt(fourSprinklers[3]) + parseInt(fourSprinklers[4]) );
+ console.log("Thank you for sh $"+sprinklersTotal+".00.");
 
 
 
