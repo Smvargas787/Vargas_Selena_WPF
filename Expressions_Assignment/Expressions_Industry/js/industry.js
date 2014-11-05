@@ -5,7 +5,8 @@ WPF 1411
 11/4/14
  */
 
-alert("Bob the Builder is making a sprinkler business and wants you to design a website for his new found company Water Works.\nAssuming his company logo has yet to be made, we want to figure out how much the perimeter is of a square shaped logo to cover the whole header.");
+alert("Bob the Builder is making a sprinkler business and wants you to design a website for " +
+"his new found company Water Works.\nAssuming his company logo has yet to be made, we want to figure out how much the perimeter is of a square shaped logo to cover the whole header.");
 
 //Calculate square perimeter
  //perimeter = 4a
@@ -23,6 +24,8 @@ var a = prompt("Lets set up our calculations, please enter the length and width 
 
 alert("Now that we've placed the logo perfectly on the header of the website, Bob wants us to make sure we add in his 3 different locations he runs his business from.");
 
+ //String Locations
+
  var firstLocation = prompt("Please enter the first location you wish for Bob to serve in.") ;
  var secondLocation = prompt("Second location you wish for Bob to serve in.");
  var thirdLocation = prompt("Third location you wish for Bob to serve in.");
@@ -30,5 +33,14 @@ alert("Now that we've placed the logo perfectly on the header of the website, Bo
 
  var bobsLocations = firstLocation+","+secondLocation+",& " +thirdLocation+".";
  console.log(bobsLocations);
+
+ alert("Fantastic! Bob is really loving how the website is coming out so far! For his final request, " +
+ "he wants his visitors to be able to order a set of sprinklers online.");
+
+ var purchases = prompt("\nPlease enter the number of sprinklers you wish to purchase if you were a customer.");
+
+ 
+
+
 
 
