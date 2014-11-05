@@ -35,11 +35,16 @@ alert("Now that we've placed the logo perfectly on the header of the website, Bo
  console.log(bobsLocations);
 
  alert("Fantastic! Bob is really loving how the website is coming out so far! For his final request, " +
- "he wants his visitors to be able to order a set of sprinklers online.");
+ "he wants his visitors to be able to order a set of sprinklers online. Each sprinkler cost $1 but for each sprinkler bought there's an additional $5 charge for installation.");
 
  var purchases = prompt("\nPlease enter the number of sprinklers you wish to purchase if you were a customer.");
+ console.log(purchases);
 
- 
+ var sprinklersCost = purchases+5;
+console.log("Thank you for shopping with Wonder Works! Your total is "+sprinklersCost+"");
+
+
+
 
 
 
