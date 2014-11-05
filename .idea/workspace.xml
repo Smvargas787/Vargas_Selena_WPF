@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28123f75-4a56-45bc-b827-4502a73a4295" name="Default" comment="" />
+    <list default="true" id="28123f75-4a56-45bc-b827-4502a73a4295" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Assignment/Expressions_Industry/js/industry.js" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions_Industry/js/industry.js" />
+    </list>
     <ignored path="Vargas_Selena_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,20 +29,8 @@
       <file leaf-file-name="day4Prompts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 4/Js/day4Prompts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="735">
+            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="735">
               <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wackyExpress.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Wacky/Js/wackyExpress.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-              <caret line="31" column="64" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="64" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -51,8 +41,8 @@
       <file leaf-file-name="industry.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Industry/js/industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26929983" vertical-offset="0" max-vertical-offset="557">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.5924596" vertical-offset="0" max-vertical-offset="557">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -693,6 +683,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Wacky/Js/wackyExpress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83482945" vertical-offset="0" max-vertical-offset="1050">
+          <caret line="31" column="64" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="64" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 4/Js/day4Prompts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="735">
@@ -703,20 +703,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Wacky/Js/wackyExpress.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-          <caret line="31" column="64" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="64" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Industry/js/industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26929983" vertical-offset="0" max-vertical-offset="557">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.5924596" vertical-offset="0" max-vertical-offset="557">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
