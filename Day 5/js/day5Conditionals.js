@@ -43,23 +43,32 @@ WPF 1411
  //If the kid is over 45" tall, then can ride the ride
 
  //Create a variable to hold the kid's height
- var kidHeight = 47;
+ var kidHeight = 44.9;
 
  //add sneaker lift
  var sneakerLift = 2;
 
+ //Create a variable for kid min height
+ var minHeight = 48;
+
+//If your parent goes on the ride with you - 45" and over can ride
+ var wParentHeight = 45;
+
+
 
  //If statement
- if(kidHeight > 48){
-
-
-
+ if(kidHeight > minHeight) {
   //True code goes
-   console.log("Congrats, you're tall enough to ride!");
+  console.log("Congrats, you're tall enough to ride!");
+
+ } else if (kidHeight >= wParentHeight ){
+  console.log("You can ride, but with your parent.");
+
+
 
 
  } else if(kidHeight+sneakerLift > 48){
-  console.log("You can ride the ride, you cheater.");
+  console.log("You can ride the ride if you wear sneaker lifts.");
 
  } else  {
   //False code goes here
