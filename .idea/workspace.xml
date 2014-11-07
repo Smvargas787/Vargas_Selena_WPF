@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28123f75-4a56-45bc-b827-4502a73a4295" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/js/day6Nestingifs.js" afterPath="$PROJECT_DIR$/Day 6/js/day6Nestingifs.js" />
     </list>
     <ignored path="Vargas_Selena_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +39,8 @@
       <file leaf-file-name="day6Nestingifs.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 6/js/day6Nestingifs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47916666" vertical-offset="0" max-vertical-offset="1320">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.6875" vertical-offset="420" max-vertical-offset="1425">
+              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -382,12 +382,7 @@
       <recent name="$PROJECT_DIR$/Day 5/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Conditionals.html">
-    <configuration default="false" name="Day3LabExpressions.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vargas_Selena_WPF/Day 3/Day3LabExpressions/Day3LabExpressions.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.nestingifs.html">
     <configuration default="false" name="day4Casting.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="day4Casting.js" working-dir="$PROJECT_DIR$/Day 4/Js">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
@@ -404,6 +399,11 @@
       <method />
     </configuration>
     <configuration default="false" name="Conditionals.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vargas_Selena_WPF/Day 5/Conditionals.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="nestingifs.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vargas_Selena_WPF/Day 6/nestingifs.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -446,19 +446,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Day3LabExpressions.html" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.day4Casting.js" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.PersonalExpress.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.wacky.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Conditionals.html" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.day4Casting.js" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.PersonalExpress.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.wacky.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Conditionals.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.nestingifs.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Conditionals.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.wacky.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.PersonalExpress.html" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.day4Casting.js" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Day3LabExpressions.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.nestingifs.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Conditionals.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.wacky.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.PersonalExpress.html" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.day4Casting.js" />
       </list>
     </recent_temporary>
   </component>
@@ -840,8 +840,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 6/js/day6Nestingifs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47916666" vertical-offset="0" max-vertical-offset="1320">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.6875" vertical-offset="420" max-vertical-offset="1425">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
         </state>
       </provider>

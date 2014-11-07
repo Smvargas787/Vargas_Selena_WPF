@@ -17,16 +17,19 @@ WPF 1411
  //Choose between a kids movie or horror - are you taking a child
 
 //Get temp
- var temp = 89;
- var waterTemp =50;
+ var temp = prompt("What's the temperature outside?");
+ //Get the water temperature
+ var waterTemp =60;
 
  //Are you taking a child
- var child = false;
+ var child = true;
 
 
  //If else statement
 if(temp>70){
  console.log("Let's go to the beach!");
+
+ waterTemp=prompt("What is the water temperature?");
 
  //Test the water temp
  if(waterTemp>75){
@@ -39,12 +42,16 @@ if(temp>70){
 
 
 
-
 } else {
  console.log("Let's go to the movies!");
 
- if(child){
-  console.log("Go see an animated feature!");
+  if(child){
+   var childAge = prompt("How old is the child?");
+   if(childAge<=6){
+    console.log("Let's see the smurf movie!");
+
+   }
+  console.log("Go see Indiana Jones!");
 
 
  }else{
