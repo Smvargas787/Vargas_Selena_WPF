@@ -13,7 +13,20 @@ alert("Your phone recently just broke and your bank account is completely empty 
 " However you need a new phone before you leave in 6 weeks.");
 
 var job = prompt("How much do you make an hour at your job?");
-var  hours = prompt("How many hours do you work a week?");
+
+if(emptyPrompt=""){
+ console.log("Please enter some valid information.");
+
+
+
+{for(var emptyPrompt=""){
+ console.log("Please enter some valid information.");
+ if(emptyPrompt=false){
+  break; 
+
+
+
+  var  hours = prompt("How many hours do you work a week?");
 var  government = prompt("How much does the government take out of your paycheck?");
 var tripMoney = 700;
 
@@ -44,3 +57,4 @@ if(paycheck>=tripMoney && paycheck>800){
 } else {
  console.log("Although, I wouldn't spend so much money if I was you, your money isn't increasing anymore.");
 }
+
