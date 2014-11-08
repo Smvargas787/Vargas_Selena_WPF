@@ -32,7 +32,7 @@ if(annualSalary>=6000000000){
 
 
  }else if(annualSalary>=23000){
-  console.log()
+  console.log("You're wanting to be an average civilian huh? That's always nice.")
 
 
- }
+ }els
