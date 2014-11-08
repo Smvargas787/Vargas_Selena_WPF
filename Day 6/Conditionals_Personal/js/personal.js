@@ -20,3 +20,9 @@ var tripMoney = 700;
 var paycheck = (job*hours)-government;
 
 
+//Ternary
+
+(paycheck>352) ? console.log("You can hurry up and buy that bad boy before people think you vanished from the face of the planet!") :
+    console.log("You better start begging your boss for more hours because it looks like you're going to be stranded on that plane with no phone.");
+
+//Else if statement
