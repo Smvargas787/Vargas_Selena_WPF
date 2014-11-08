@@ -11,7 +11,24 @@ alert("Testing 1, 2, 3!");
  //Website Pricing
 
 alert("It's time to make Selena money!");
- alert("A local Web Designing company is wanting to make new hires for their web development field and showed you a list of their hourly salaries " +
+ alert("A local Web Designing company is wanting to make new hires for their Web Development field and showed you a list of their annual salaries " +
  "they are willing to pay you.");
 
- 
+ var annualSalary = prompt("What is your requested salary you are wanting to receieve from your company?");
+
+
+if(annualSalary>=6000000000){
+ console.log("You're asking for a little too much there buddy, but you're getting paid!! ")
+
+
+}
+
+ if(annualSalary>=5650000000){
+  console.log("You're not a Donald Trump but you're making it up there!")
+
+
+ }else if(annualSalary>=32000000){
+  console.log("You")
+
+
+ }
