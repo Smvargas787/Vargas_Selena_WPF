@@ -20,9 +20,12 @@ WPF 1411
 var discountHeight = 66.6;
  var pearlsHeight = prompt("What is Pearl's current height?");
 
+ if(pearlsHeight===""){
+  console.log("Please enter some valid information.");
+  pearlsHeight = prompt("What is Pearl's current height?");
 
 
- 
+
 var discountTime = prompt("What time do you want Mr. Krabs to take his daughter out to the movies?");
 
  if ((pearlsHeight>=discountHeight ) && (discountTime>=10 && discountTime<=12 )) {
