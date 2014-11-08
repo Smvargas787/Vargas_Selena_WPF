@@ -24,7 +24,10 @@ var discountHeight = 66.6;
   console.log("Please enter some valid information.");
   pearlsHeight = prompt("What is Pearl's current height?");
 
+ }else{
+  console.log("Thank you, please proceed.");
 
+ }
 
 var discountTime = prompt("What time do you want Mr. Krabs to take his daughter out to the movies?");
 
