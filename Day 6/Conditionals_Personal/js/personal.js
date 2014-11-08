@@ -14,17 +14,16 @@ alert("Your phone recently just broke and your bank account is completely empty 
 
 var job = prompt("How much do you make an hour at your job?");
 
-if(emptyPrompt=""){
+if(job===""){
  console.log("Please enter some valid information.");
+ job = prompt("How much do you make an hour at your job?");
 
 
 
-{for(var emptyPrompt=""){
- console.log("Please enter some valid information.");
- if(emptyPrompt=false){
-  break; 
+ }else{
+ console.log("Thank you, please proceed.");
 
-
+}
 
   var  hours = prompt("How many hours do you work a week?");
 var  government = prompt("How much does the government take out of your paycheck?");
