@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28123f75-4a56-45bc-b827-4502a73a4295" name="Default" comment="" />
+    <list default="true" id="28123f75-4a56-45bc-b827-4502a73a4295" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/Conditionals_Industry/js/indsutry.js" afterPath="$PROJECT_DIR$/Day 6/Conditionals_Industry/js/indsutry.js" />
+    </list>
     <ignored path="Vargas_Selena_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,31 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day5Conditionals.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5/js/day5Conditionals.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="wacky.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 6/Conditionals_Wacky/js/wacky.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="735">
-              <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Conditionals2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5/Conditionals_worksheet/js/Conditionals2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
-              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="29" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -57,8 +39,8 @@
       <file leaf-file-name="indsutry.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 6/Conditionals_Industry/js/indsutry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8541667" vertical-offset="0" max-vertical-offset="735">
-              <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.33333334" vertical-offset="150" max-vertical-offset="870">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -72,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 4/Index.html" />
         <option value="$PROJECT_DIR$/Day 4/day4Prompts.html" />
         <option value="$PROJECT_DIR$/Day 4/Js/day4Prompts.js" />
         <option value="$PROJECT_DIR$/Day 4/Casting.html" />
@@ -122,6 +103,7 @@
         <option value="$PROJECT_DIR$/Day 6/Conditionals_Wacky/conditionalsWacky.html" />
         <option value="$PROJECT_DIR$/Day 6/Conditionals_Wacky/js/wacky.js" />
         <option value="$PROJECT_DIR$/Day 6/Conditionals_Industry/conditionalsIndustry.html" />
+        <option value="$PROJECT_DIR$/Day 5/Conditionals_worksheet/js/Conditionals2.js" />
         <option value="$PROJECT_DIR$/Day 6/Conditionals_Industry/js/indsutry.js" />
       </list>
     </option>
@@ -749,9 +731,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 5/Conditionals_worksheet/js/Conditionals2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8125" vertical-offset="30" max-vertical-offset="750">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 5/js/day5Conditionals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1245">
+        <state vertical-scroll-proportion="0.27083334" vertical-offset="0" max-vertical-offset="1245">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
@@ -760,23 +750,15 @@
     <entry file="file://$PROJECT_DIR$/Day 6/Conditionals_Wacky/js/wacky.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="735">
-          <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5/Conditionals_worksheet/js/Conditionals2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="29" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 6/Conditionals_Industry/js/indsutry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8541667" vertical-offset="0" max-vertical-offset="735">
-          <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="150" max-vertical-offset="870">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>
