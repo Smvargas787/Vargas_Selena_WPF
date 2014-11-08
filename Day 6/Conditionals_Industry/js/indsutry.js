@@ -24,11 +24,15 @@ if(annualSalary>=6000000000){
 }
 
  if(annualSalary>=5650000000){
-  console.log("You're not a Donald Trump but you're making it up there!")
+  console.log("You're not a Donald Trump but you're making it up there!");
 
 
  }else if(annualSalary>=32000000){
-  console.log("You")
+  console.log("You're wanting to be rich! I see it!");
+
+
+ }else if(annualSalary>=23000){
+  console.log()
 
 
  }
