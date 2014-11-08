@@ -6,7 +6,7 @@ WPF 1411
 11/7/14
  */
 
-alert("Testing 1, 2, 3!");
+//alert("Testing 1, 2, 3!");
 
  //Website Pricing
 
@@ -21,9 +21,7 @@ if(annualSalary>=6000000000){
  console.log("You're asking for a little too much there buddy, but you're getting paid!! ")
 
 
-}
-
- if(annualSalary>=5650000000){
+}else if(annualSalary>=5650000000){
   console.log("You're not a Donald Trump but you're making it up there!");
 
 
@@ -35,4 +33,11 @@ if(annualSalary>=6000000000){
   console.log("You're wanting to be an average civilian huh? That's always nice.")
 
 
- }els
+ }else if(annualSalary>=1500){
+  console.log("I hope you have another job because those bills aren't going to get paid that easily with this income.")
+
+ }else if(annualSalary>=400){
+ console.log("You fail at life if you're only wanting this much.")
+
+} 
+
