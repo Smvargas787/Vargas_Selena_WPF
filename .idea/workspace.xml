@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28123f75-4a56-45bc-b827-4502a73a4295" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/js/day6Math.js" afterPath="$PROJECT_DIR$/Day 6/js/day6Math.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 7/js/day7ForLoops.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day 7/js/day7FourLoops.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7/FourLoops.html" afterPath="$PROJECT_DIR$/Day 7/FourLoops.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Vargas_Selena_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day7FourLoops.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 7/js/day7FourLoops.js">
+      <file leaf-file-name="day7ForLoops.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 7/js/day7ForLoops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14583333" vertical-offset="0" max-vertical-offset="720">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5416667" vertical-offset="0" max-vertical-offset="720">
+              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -112,8 +115,9 @@
         <option value="$PROJECT_DIR$/Day 6/js/day6Math.js" />
         <option value="$PROJECT_DIR$/Day 7/whileloop.html" />
         <option value="$PROJECT_DIR$/Day 7/js/day7WhileLoop.js" />
-        <option value="$PROJECT_DIR$/Day 7/js/day7FourLoops.js" />
         <option value="$PROJECT_DIR$/Day 7/FourLoops.html" />
+        <option value="$PROJECT_DIR$/Day 7/js/day7FourLoops.js" />
+        <option value="$PROJECT_DIR$/Day 7/js/day7ForLoops.js" />
       </list>
     </option>
   </component>
@@ -938,10 +942,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 7/js/day7FourLoops.js">
+    <entry file="file://$PROJECT_DIR$/Day 7/js/day7ForLoops.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14583333" vertical-offset="0" max-vertical-offset="720">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5416667" vertical-offset="0" max-vertical-offset="720">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
           <folding />
         </state>
       </provider>
