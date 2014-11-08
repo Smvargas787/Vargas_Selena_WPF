@@ -26,3 +26,21 @@ var paycheck = (job*hours)-government;
     console.log("You better start begging your boss for more hours because it looks like you're going to be stranded on that plane with no phone.");
 
 //Else if statement
+
+if(paycheck>400){
+ console.log("You can also buy a case with that phone!")
+
+}else {
+ console.log("You should probably save the rest of that money for your trip instead so you don't starve.")
+
+
+}
+
+
+//Logical statements
+if(paycheck>=tripMoney && paycheck>800){
+ console.log("You can purchase that phone and still have enough money to shop until you drop on your trip as well!");
+
+} else {
+ console.log("Although, I wouldn't spend so much money if I was you, your money isn't increasing anymore.");
+}
