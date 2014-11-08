@@ -63,4 +63,26 @@ var num2 = 6.8;
   num9 = num9.toFixed(2);
  console.log(num9);
 
- 
+ //Prompt the user for max and min value
+ //Then find a random number between them
+
+ var max = prompt("Let's find a random number, what's the max value?");
+ var min = prompt("Please type in a minimum number.");
+
+ //Find the random integer
+
+ var randomNum = Math.random()*(max-min) +Number(min);
+ console.log(randomNum);
+ console.log("Your random number is "+randomNum+".");
+
+//Math Class constant
+ //Number that never changes
+ //Always uppercase
+ //Math.PI - 3.1459.....
+ //Circumference of a circle
+//2*pi*r
+
+ var radius = 7;
+ var circleArea = 2*Math.PI * radius;
+ console.log(circleArea);
+
