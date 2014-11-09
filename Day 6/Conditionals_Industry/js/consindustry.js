@@ -47,7 +47,7 @@ if(annualSalary>=6000000000){
 }else if(annualSalary>=1500){
  console.log("I hope you have another job because those bills aren't going to get paid that easily with this income.")
 
-}else if(annualSalary<=50){
+}else if(annualSalary<=100){
  console.log("You fail at life if you're only wanting this much.")
 
 } 
