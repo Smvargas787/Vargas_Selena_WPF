@@ -16,6 +16,17 @@ alert("A local Web Designing company is wanting to make new hires for their Web 
 
 var annualSalary = prompt("What is your requested salary you are wanting to receieve from your company?");
 
+if(annualSalary==""){
+ console.log("Please enter some valid information.");
+ annualSalary = prompt("What is your requested salary you are wanting to receieve from your company?");
+
+
+
+}else{
+ console.log("Thank you, please proceed.");
+
+}
+
 
 if(annualSalary>=6000000000){
  console.log("You're asking for a little too much there buddy, but you're getting paid!!")
@@ -36,7 +47,7 @@ if(annualSalary>=6000000000){
 }else if(annualSalary>=1500){
  console.log("I hope you have another job because those bills aren't going to get paid that easily with this income.")
 
-}else if(annualSalary>=400){
+}else if(annualSalary<=50){
  console.log("You fail at life if you're only wanting this much.")
 
 } 
