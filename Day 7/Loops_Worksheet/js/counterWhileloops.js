@@ -8,20 +8,30 @@ WPF 1411
 
 //alert("Testing 1, 2, 3!");
 
- var counter = 0; //Step 1: Initialize the counting variable
+ var miles = 2;
 
- while(counter<20){ //Condition will run as long as this is true
-  console.log("Somethings will never end "+counter);
 
-  //Update or change the counting variable
+ if (miles === 1) {
+  console.log("Let's keep running " + miles + " mile!")
 
-  counter++;
-
- }
- console.log("End of loop-Last counter variable "+counter);
 
 
  }
+
+
+ while(miles<60){
+  console.log("Let's keep running "+miles+" miles!");
+
+
+  miles++;
+
+ }
+ console.log("End of loop-Last counter variable "+miles);
+
+
+
+
+
 
 
 
