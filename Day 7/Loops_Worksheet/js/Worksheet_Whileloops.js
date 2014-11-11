@@ -10,19 +10,18 @@ WPF 1411
 
 //Five Little Monkeys Jumping on the bed Nursery rhyme
 
- for(var i = 5; i>1; i--){
+ for(var i = 5; i>0; i--){
+
+  if (i === 1) {
+   console.log(i + " little monkey jumping on the bed. One fell off and bumped his head. Mama called the doctor and the doctor said" +
+   " put those monkeys right to bed. ");
 
 
- }if(i===5){
-
-     console.log(+i+" little monkeys jumping on the bed."+i+" One fell off and bumped his head. Mama  called the doctor and the doctor said" +
-  " no more monkeys jumping on the bed.");
-
- }
-  else if(i===1){
-   console.log(+i+" little monkey jumping on the bed."+i+" fell off and bumped his head. Mama called the doctor and the doctor said" +
-   " put those monkeys right to bed.");
-
+  }else {
+   console.log(i+ " little monkeys jumping on the bed. One fell off and bumped his head. Mama called the doctor and the doctor said" +
+   " no more monkeys jumping on the bed. ");
 
   }
 
+
+ }
