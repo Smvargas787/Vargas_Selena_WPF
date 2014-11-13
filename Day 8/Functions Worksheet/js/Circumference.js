@@ -33,6 +33,19 @@ function validatePlease(userPrompt){
 }
 
 
+//Bee Stings
+
+var victimWeight = prompt("Let's find out how many bee stings it would take to kill animal, type in the animal's weight:");
+function animal(victimWeight){
+
+ var sting = victimWeight * 8.666666667;
+
+ return sting;
+
+}
+
+victimWeight=validatePlease(victimWeight);
+var returnedSting = animal(victimWeight);
 
 
 
