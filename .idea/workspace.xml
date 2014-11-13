@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28123f75-4a56-45bc-b827-4502a73a4295" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8/js/day8Functions.js" afterPath="$PROJECT_DIR$/Day 8/js/day8Functions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8/js/day8PA.js" afterPath="$PROJECT_DIR$/Day 8/js/day8PA.js" />
     </list>
     <ignored path="Vargas_Selena_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="day8PA.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 8/js/day8PA.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.104166664" vertical-offset="0" max-vertical-offset="720">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.625" vertical-offset="300" max-vertical-offset="1140">
+              <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -728,8 +728,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 8/js/day8PA.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.104166664" vertical-offset="0" max-vertical-offset="720">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.625" vertical-offset="300" max-vertical-offset="1140">
+          <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
           <folding />
         </state>
       </provider>
