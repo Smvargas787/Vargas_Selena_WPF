@@ -46,6 +46,8 @@ function animal(victimWeight){
 
 victimWeight=validatePlease(victimWeight);
 var returnedSting = animal(victimWeight);
+console.log("The amount of bee stings it takes to kill an animal is "+returnedSting+"!");
+
 
 
 
