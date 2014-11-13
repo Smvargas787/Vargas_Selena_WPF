@@ -48,7 +48,7 @@ calcArea(2,3);
 
   //DO NOT DO THIS !
   //var dogAge = yourAge*7;
-  
+
   var dogAge = humanAge * 7;
   console.log("You are "+dogAge+" years old in dog years!");
 

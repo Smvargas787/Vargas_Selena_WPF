@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day8PA.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 8/js/day8PA.js">
+      <file leaf-file-name="day8Returns.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 8/js/day8Returns.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.625" vertical-offset="300" max-vertical-offset="1140">
-              <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.20833333" vertical-offset="0" max-vertical-offset="720">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,8 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 5/Conditionals_worksheet/js/Conditonals.js" />
-        <option value="$PROJECT_DIR$/Day 5/Conditionals_worksheet/conditonalsWorksheet.html" />
         <option value="$PROJECT_DIR$/Day 5/Conditionals_worksheet/js/Conditionals.js" />
         <option value="$PROJECT_DIR$/Day 5/Conditionals_worksheet/js/Conditionals1.js" />
         <option value="$PROJECT_DIR$/Day 5/Conditionals_worksheet/gpaCalculator.html" />
@@ -95,6 +93,8 @@
         <option value="$PROJECT_DIR$/Day 8/js/day8Scope.js" />
         <option value="$PROJECT_DIR$/Day 8/Parameters &amp; Arguments.html" />
         <option value="$PROJECT_DIR$/Day 8/js/day8PA.js" />
+        <option value="$PROJECT_DIR$/Day 8/Returns.html" />
+        <option value="$PROJECT_DIR$/Day 8/js/day8Returns.js" />
       </list>
     </option>
   </component>
@@ -369,20 +369,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Wacky/wacky.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Personal/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39583334" vertical-offset="255" max-vertical-offset="975">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expressions_Industry/js/industry.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41666666" vertical-offset="255" max-vertical-offset="1170">
@@ -729,7 +715,23 @@
     <entry file="file://$PROJECT_DIR$/Day 8/js/day8PA.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.625" vertical-offset="300" max-vertical-offset="1140">
-          <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8/Returns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12931034" vertical-offset="0" max-vertical-offset="696">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8/js/day8Returns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20833333" vertical-offset="0" max-vertical-offset="720">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
