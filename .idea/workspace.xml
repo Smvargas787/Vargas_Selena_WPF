@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28123f75-4a56-45bc-b827-4502a73a4295" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions_Assignment.zip" afterPath="$PROJECT_DIR$/Day 4/Expressions_Assignment.zip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions_Assignment/Expressions_Industry/js/industry.js" afterPath="$PROJECT_DIR$/Day 4/Expressions_Assignment/Expressions_Industry/js/industry.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions_Assignment/Expressions_Industry/webIndustry.html" afterPath="$PROJECT_DIR$/Day 4/Expressions_Assignment/Expressions_Industry/webIndustry.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions_Assignment/Expressions_Personal/PersonalExpress.html" afterPath="$PROJECT_DIR$/Day 4/Expressions_Assignment/Expressions_Personal/PersonalExpress.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions_Assignment/Expressions_Personal/js/script.js" afterPath="$PROJECT_DIR$/Day 4/Expressions_Assignment/Expressions_Personal/js/script.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions_Assignment/Expressions_Wacky/Js/wackyExpress.js" afterPath="$PROJECT_DIR$/Day 4/Expressions_Assignment/Expressions_Wacky/Js/wackyExpress.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions_Assignment/Expressions_Wacky/wacky.html" afterPath="$PROJECT_DIR$/Day 4/Expressions_Assignment/Expressions_Wacky/wacky.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8/Functions Worksheet/js/Circumference.js" afterPath="$PROJECT_DIR$/Day 8/Functions Worksheet/js/Circumference.js" />
     </list>
     <ignored path="Vargas_Selena_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +29,8 @@
       <file leaf-file-name="day8Returns.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 8/js/day8Returns.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
-              <caret line="84" column="2" selection-start-line="84" selection-start-column="2" selection-end-line="84" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="770" max-vertical-offset="1350">
+              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -46,9 +39,11 @@
       <file leaf-file-name="Circumference.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 8/Functions Worksheet/js/Circumference.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38613862" vertical-offset="0" max-vertical-offset="505">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.8019802" vertical-offset="105" max-vertical-offset="885">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -184,28 +179,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Functions Worksheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vargas_Selena_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vargas_Selena_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day 8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functions Worksheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -765,16 +738,18 @@
     <entry file="file://$PROJECT_DIR$/Day 8/js/day8Returns.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
-          <caret line="84" column="2" selection-start-line="84" selection-start-column="2" selection-end-line="84" selection-end-column="2" />
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 8/Functions Worksheet/js/Circumference.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38613862" vertical-offset="0" max-vertical-offset="505">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.8019802" vertical-offset="105" max-vertical-offset="885">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
