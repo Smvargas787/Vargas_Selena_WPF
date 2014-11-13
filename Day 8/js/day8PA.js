@@ -1,7 +1,7 @@
 
  /*
 Selena Vargas
-Functions
+Parameters & Arguments
 WPF 1411
 11/12/14
  */
