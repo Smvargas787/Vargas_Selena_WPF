@@ -1,7 +1,7 @@
 
  /*
 Selena Vargas
-Random Number Function
+Procedures
 WPF 1411
 11/14/14
  */
