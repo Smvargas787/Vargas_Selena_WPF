@@ -42,4 +42,15 @@ console.log(percent);
 console.log(allowance);
 
  //Functions
- 
+ function collegeMoney(all,perce){
+
+  var money = (all * perce);
+money*=5;
+  return money;
+
+ }
+
+var returnedMoney = collegeMoney(allowance,percent);
+ console.log(returnedMoney);
+
+
