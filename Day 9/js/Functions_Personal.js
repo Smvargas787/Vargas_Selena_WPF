@@ -18,7 +18,7 @@ WPF 1411
  //Validation
 
  while(allowance==="" || isNaN(allowance)) {
-allowance = prompt("Please enter in a correct value.");
+allowance = prompt("Please enter in a correct value and don't leave blank.\nIe: 62");
 
  }if(allowance===""){
   allowance = prompt("Please don't leave blank!\nHow much do you currently have in your bank account?")
@@ -35,11 +35,11 @@ allowance = prompt("Please enter in a correct value.");
 
  //Ternary
 
- percent/=100;
+ (percent==="")?percent=prompt("Please enter a correct value."): (isNaN(percent))? percent=prompt("Please only enter numbers! Ie: 30"):console.log("Number Accepted");
 
- (percent==="")?console.log("Please enter a correct value"): (isNaN(percent))? console.log("Please only enter numbers! Ie: 30"):
-console.log(percent);
-console.log(allowance);
+ var decimal = percent/100;
+ console.log("Your percentage amount is %"+percent+".");
+ console.log("Your allowance is now a total of $"+allowance+".");
 
  //Functions
  function collegeMoney(all,perce){
@@ -50,7 +50,9 @@ money*=5;
 
  }
 
-var returnedMoney = collegeMoney(allowance,percent);
- console.log(returnedMoney);
+var returnedMoney = collegeMoney(allowance,decimal);
+ console.log("You have a total of $"+returnedMoney+" in your college fund of 5 years.");
+
+
 
 
