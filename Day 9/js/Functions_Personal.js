@@ -10,15 +10,15 @@ WPF 1411
 
 //You put a percent of your weekly allowance in the bank for college.
  //Find out how much you have in the bank currently
- //and how much allowance you have earned.
+ // After saving for 5 years.
 
 
  var allowance = prompt("How much was your allowance?");
 
  //Validation
 
- while(allowance==="" || isNaN(allowance)){
-
+ while(allowance==="" || isNaN(allowance)) {
+allowance = prompt("Please enter in a correct value.");
 
  }if(allowance===""){
   allowance = prompt("Please don't leave blank!\nHow much do you currently have in your bank account?")
@@ -33,11 +33,13 @@ WPF 1411
 
  var percent = prompt("What percent of your allowance did you put in your bank account?");
 
- //Validation
+ //Ternary
 
- while(percent==="" || isNaN(percent)){
-  //Reprompt
-  percent = prompt("Please don't leave blank and only use numbers!\nWhat percent of your allowance did you put in the bank?\nIe:30 ")
+ percent/=100;
 
+ (percent==="")?console.log("Please enter a correct value"): (isNaN(percent))? console.log("Please only enter numbers! Ie: 30"):
+console.log(percent);
+console.log(allowance);
 
- }
+ //Functions
+ 
