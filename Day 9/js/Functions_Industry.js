@@ -18,7 +18,12 @@ var templates = prompt("How many templates do you wanna create for Square Space 
 
  while(templates==="" || isNaN(templates)){
   //Reprompt the user for a valid response
-  min=prompt("Please don't leave blank and only use numbers!\nWhat's the min value?");
+  templates=prompt("Please don't leave blank and only use numbers!\nHow many templates do you wanna create for Square Space to use?");
 
 
  }
+
+
+ //Function
+
+ 
