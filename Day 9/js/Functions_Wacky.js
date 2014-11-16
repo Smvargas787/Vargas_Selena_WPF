@@ -32,4 +32,9 @@ var height = prompt("What is the height of Homer Simpson's house?");
  var width = prompt("What is the width?");
 
  //Validation
- 
+
+ while(width==="" || isNaN(width)){
+  width = prompt("Please enter in a correct value and don't leave blank.\nIe: 2")
+  
+
+ }
