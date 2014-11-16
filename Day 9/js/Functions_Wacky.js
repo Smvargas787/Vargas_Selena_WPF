@@ -76,4 +76,9 @@ var length = prompt("What is the length?");
 
  //Function Call
 
+ var returnedAnonVolume = anonVolume(length,width,height);
+
+ console.log("The volume of Homer Simpson's house of water is "+returnedAnonVolume+".");
+
  
+
