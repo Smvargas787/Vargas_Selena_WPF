@@ -28,3 +28,8 @@ var height = prompt("What is the height of Homer Simpson's house?");
 
 
  }
+
+ var width = prompt("What is the width?");
+
+ //Validation
+ 
