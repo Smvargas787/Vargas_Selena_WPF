@@ -28,11 +28,12 @@ var templates = prompt("How many templates do you wanna create for Square Space 
 
  function templatePaycheck (templateNumber, paycheck){
 
-  paycheck = 1500;
 
   var  totalForPay = 1500 * templateNumber;
 
   return totalForPay;
  }
 
- 
+ var returnedPay = templatePaycheck(templates,paycheck);
+ console.log("For the creation of "+templates+", you have earned a paycheck of $"+returnedPay+".");
+
