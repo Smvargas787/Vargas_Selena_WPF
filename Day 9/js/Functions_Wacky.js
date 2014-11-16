@@ -14,4 +14,17 @@ WPF 1411
 
 var height = prompt("What is the height of Homer Simpson's house?");
 
+//Validation
 
+ while(height==="" || isNaN(height)) {
+  height = prompt("Please enter in a correct value and don't leave blank.\nIe: 5");
+
+ }if(height===""){
+  allowance = prompt("Please don't leave blank!\nWhat is the height of Homer Simpson's house?")
+
+
+ }else if(isNaN(height)){
+  allowance = prompt("Please only type in numbers!\nWhat is the height of Homer Simpson's house?\nIe:5")
+
+
+ }
