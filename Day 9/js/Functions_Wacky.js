@@ -35,6 +35,32 @@ var height = prompt("What is the height of Homer Simpson's house?");
 
  while(width==="" || isNaN(width)){
   width = prompt("Please enter in a correct value and don't leave blank.\nIe: 2")
-  
+
+
+ }if(width===""){
+  width = prompt("Please enter in only numbers and don't leave blank.\nIe: 5")
+
+
+ }else if(isNaN(width)){
+  width = prompt("Please enter in only numbers and don't leave blank.\nIe: 22")
+
 
  }
+
+var length = prompt("What is the length?");
+
+ while(length==="" || isNaN(length)){
+  length = prompt("What is the length?")
+
+
+ }if(length===""){
+  length = prompt("Please enter in a correct value and don't leave blank.\nIe: 9")
+
+
+ }else if(isNaN(length)){
+  length = prompt("Please enter in only numbers and don't leave blank.\nIe: 11")
+
+
+ }
+ 
+
