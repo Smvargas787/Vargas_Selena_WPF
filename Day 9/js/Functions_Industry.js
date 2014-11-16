@@ -12,5 +12,13 @@ WPF 1411
  //For each template you make they're willing to pay you $1,500.
  //Find how how much you'll make after all your hard work on coding their templates is done.
 
- 
+var templates = prompt("How many templates do you wanna create for Square Space to use?");
 
+ //Validation
+
+ while(templates==="" || isNaN(templates)){
+  //Reprompt the user for a valid response
+  min=prompt("Please don't leave blank and only use numbers!\nWhat's the min value?");
+
+
+ }
