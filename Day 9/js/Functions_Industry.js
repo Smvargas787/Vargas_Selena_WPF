@@ -28,6 +28,7 @@ var templates = prompt("How many templates do you wanna create for Square Space 
 
  function templatePaycheck (templateNumber, paycheck){
 
+paycheck = 1500 * templateNumber;
 
   var  totalForPay = 1500 * templateNumber;
 
