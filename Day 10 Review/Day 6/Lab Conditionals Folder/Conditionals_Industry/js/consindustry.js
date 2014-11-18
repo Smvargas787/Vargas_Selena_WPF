@@ -50,4 +50,4 @@ if(annualSalary>=6000000000){
 }else if(annualSalary<=100){
  console.log("You fail at life if you're only wanting this much.")
 
-} 
+}
